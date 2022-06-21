@@ -1,9 +1,9 @@
 package cinema.service.mapper;
 
-import java.util.stream.Collectors;
 import cinema.dto.response.ShoppingCartResponseDto;
 import cinema.model.ShoppingCart;
 import cinema.model.Ticket;
+import java.util.stream.Collectors;
 import org.springframework.stereotype.Component;
 
 @Component
