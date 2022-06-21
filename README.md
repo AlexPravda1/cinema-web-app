@@ -1,6 +1,6 @@
 # Welcome to simple cinema service application!
 
-<img src="https://img.freepik.com/free-vector/isometric-cinema-icon-set_1284-18691.jpg?w=740&t=st=1655819279~exp=1655819879~hmac=b537d9c1c8fcb7dda89728ec1e84151a227da1ff762ec73b71a59b7a0e6aae09" width="400" alt="cinema">
+<img src="https://images.all-free-download.com/images/graphiclarge/cinema_cashier_desk_decor_colored_human_icon_6828613.jpg" width="400" alt="cinema">
 
 ## The goal of this project is:
 * Create a Java application using Spring and Hibernate
